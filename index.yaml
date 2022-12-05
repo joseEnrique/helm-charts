@@ -11,4 +11,24 @@ entries:
     urls:
     - https://github.com/joseEnrique/helm-charts/releases/download/pip-cache-0.1.0/pip-cache-0.1.0.tgz
     version: 0.1.0
+  raw:
+  - apiVersion: v2
+    created: "2022-12-05T16:59:42.329950974Z"
+    description: A place for all the Kubernetes resources which don't already have a home
+    digest: 8a50f4f75ecc2a3dbd6c90311a39ba88b492872f427093100ac10593dac97691
+    home: https://github.com/itscontained/charts/blob/master/itscontained/raw
+    keywords:
+    - raw
+    - incubator
+    - incubator-raw
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: nick@cajun.pro
+      name: DirtyCajunRice
+    name: raw
+    sources:
+    - https://github.com/helm/charts/blob/master/incubator/raw
+    urls:
+    - https://github.com/joseEnrique/helm-charts/releases/download/raw-v0.2.5/raw-v0.2.5.tgz
+    version: v0.2.5
 generated: "2022-03-08T12:55:06.482978011Z"
